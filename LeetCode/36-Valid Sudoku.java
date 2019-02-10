@@ -1,4 +1,4 @@
-// 			Q) 28. Implement strStr()
+// 			Q) 36-Valid Sudoku.java
 // 			https://leetcode.com/problems/valid-sudoku/description/
 //code
 class Solution {
